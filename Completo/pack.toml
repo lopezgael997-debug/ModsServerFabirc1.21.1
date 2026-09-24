@@ -1,0 +1,13 @@
+name = "Completa"
+author = "Gael Lopez"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ed8074a6a2d5e539fde64c45eb4a1e0073eba9efdbb8ef005f101b40cc37de66"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"
