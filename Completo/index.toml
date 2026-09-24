@@ -70,10 +70,6 @@ file = "mods/FarmersDelight-1.21.1-3.3.6+refabricated.jar"
 hash = "c719a1e92f1e16f953265069afa9b5d52f2119b434e1f6e0ad4d7a1e449941dc"
 
 [[files]]
-file = "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
-hash = "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
-
-[[files]]
 file = "mods/Galosphere-1.21.1-1.5.4-Fabric.jar"
 hash = "d2a515c61c6791630cfe933a513c1f1a5f819dc44975a329c19be4483ddf75de"
 
@@ -126,16 +122,8 @@ file = "mods/PlayerAnimationLibFabric-1.1.6+mc.1.21.1.jar"
 hash = "876cd48293b580727ea35a708aa10c6a6f7f3e454a0ab68e7db30888a7ee9d79"
 
 [[files]]
-file = "mods/PuzzlesLib-v21.1.52-1.21.1-Fabric.jar"
-hash = "f63f5916cea9e2daa0c36f8d420c593476b963177c91e866114ff79fe596072e"
-
-[[files]]
 file = "mods/PuzzlesLib-v21.1.60-mc1.21.1-Fabric.jar"
 hash = "c098946ada5cc45a63cc3a595be3c95a07f0237163d250e4c6b6f712f049233a"
-
-[[files]]
-file = "mods/Searchables-fabric-1.21.1-1.0.2.jar"
-hash = "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76"
 
 [[files]]
 file = "mods/Sparkweave-Fabric-0.510.0.jar"
@@ -156,10 +144,6 @@ hash = "d89c1c377c0d33d8073696073b1af3e9472f418c2d700f607ce7b632939618b7"
 [[files]]
 file = "mods/TreeChop-1.21.1-fabric-0.19.3a.jar"
 hash = "0dc097bc1a6f327b32b1c1bafadfa42b2a840280ab9b7808cc36df3f822cae55"
-
-[[files]]
-file = "mods/YungsApi-1.21.1-Fabric-5.1.8.jar"
-hash = "f0cc5322fb2dbb97290dc431b475b814c05a8fd0d2a60a9bc9f48d9a3ab15970"
 
 [[files]]
 file = "mods/YungsApi-1.21.1-Fabric-5.1.9.jar"
@@ -236,10 +220,6 @@ file = "mods/archers-fabric-3.1.1%2B1.21.1.jar"
 hash = "13c79387c4ae44859adb12949b3fd999f232ec548f04f54421e4438c883b854c"
 
 [[files]]
-file = "mods/architectury-13.0.11-fabric.jar"
-hash = "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
 metafile = true
@@ -286,10 +266,6 @@ hash = "302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2"
 file = "mods/chat-heads.pw.toml"
 hash = "5d0697933c7714e41fc1fafaaff08ddf0ad58c9c5426fb5fdb5688779582d84f"
 metafile = true
-
-[[files]]
-file = "mods/cloth-config-15.0.140-fabric.jar"
-hash = "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -351,10 +327,6 @@ hash = "38e09deae66c9d2955a857300b3308a3b3068f9695d226608074c28fa6ea2137"
 metafile = true
 
 [[files]]
-file = "mods/everycomp-1.21-2.11.50-fabric.jar"
-hash = "368915035cfbbf4838c792ba61a7caba9b0e40c74ecf9e72187d57e4851e2828"
-
-[[files]]
 file = "mods/everycomp-1.21-2.11.52-fabric.jar"
 hash = "32f7d5eedb8aa2198f4e11b069a9ea71b5138d5f1bfa7f3333088bf13deef81c"
 
@@ -363,17 +335,9 @@ file = "mods/exposure-fabric-1.21.1-1.9.19.jar"
 hash = "5a9211ba8f05cb625a69ccc5f945ac974406a9922a1fdbb3dde0d28709d16183"
 
 [[files]]
-file = "mods/fabric-api-0.116.17+1.21.1.jar"
-hash = "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar"
-hash = "620c2709be2a262b837cf976f6f85f6eda80a56af2ba4242e0bdc83a60fee7a5"
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
@@ -410,10 +374,6 @@ hash = "0344e19cd35c0bb6aa608343cc352c9733e400b946b52fd49beec2d7fc0406b6"
 file = "mods/fzzy-config.pw.toml"
 hash = "cbeb48d7af1bcb06af49d2b1d443929dc144cd36922006a6a66f3e1d0777cc5c"
 metafile = true
-
-[[files]]
-file = "mods/fzzy_config-0.7.7+1.21.jar"
-hash = "8183d6bf61e2b222bd628e0d3f6a01da50839244054e27ba4532e1768d709b8f"
 
 [[files]]
 file = "mods/geckolib-fabric-1.21.1-4.9.2.jar"
@@ -501,10 +461,6 @@ file = "mods/lithostitched-1.8.0-fabric-21.1.jar"
 hash = "1bb5e1f13c394e7b694b94bff9af24b449e519079651ca02765da7ade3079ff7"
 
 [[files]]
-file = "mods/lootr-fabric-1.21.1-1.11.38.124.jar"
-hash = "1a2856db255a02bc36996af7efef98b82cdd0e79c6bb1287defcb89ca3d58744"
-
-[[files]]
 file = "mods/lootr-fabric-1.21.1-1.11.38.126.jar"
 hash = "5e2c012cf7508c8b0e7286347a0b710b4c030af1c491088d80d034988761465a"
 
@@ -549,10 +505,6 @@ hash = "e130831cfbc03b27b6898d656c46947b4d3fed172532b8504cec982fa32cc9a3"
 [[files]]
 file = "mods/paladins-fabric-3.1.1%2B1.21.1.jar"
 hash = "581e057ec537dafe1495a76702e88d525d45e39ba5e9d75ea4adc0cde2a585ed"
-
-[[files]]
-file = "mods/placeholder-api-2.4.2+1.21.jar"
-hash = "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
