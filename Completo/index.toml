@@ -376,10 +376,6 @@ hash = "cbeb48d7af1bcb06af49d2b1d443929dc144cd36922006a6a66f3e1d0777cc5c"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric-1.21.1-4.9.2.jar"
-hash = "eac4cf55e1cb99b22cb91ea87c774d2a670c1711a80f4aff50e6ad56b6c58e7e"
-
-[[files]]
 file = "mods/geckolib-fabric-1.21.1-4.9.3.jar"
 hash = "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0"
 
@@ -421,10 +417,6 @@ hash = "83fbcb02e38b093b8aec0e0b0c3d1eb7585de33a6fd69277703041a996f2a580"
 [[files]]
 file = "mods/jamlib-fabric-1.3.6%2B1.21.1.jar"
 hash = "84c3a6813d6fdb0446092a477a0bfde0238ab9a49efc1ab110ae4871cc3e20da"
-
-[[files]]
-file = "mods/jei-1.21.1-fabric-19.56.0.441.jar"
-hash = "82d08b19350ce032cdc2945a26e31a46fb0f61bbc8bba622a823b2d34e010b67"
 
 [[files]]
 file = "mods/jei-1.21.1-fabric-19.57.0.447.jar"
@@ -588,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
-hash = "e2319f2f3adf72a80c5af8f7eea1986424478d31e0970707f17701d397faaa1f"
+hash = "739e9481ac5b7bf689976a29a7569cd26d7c80d9d18338dc8ed073e8c7309b6f"
 metafile = true
 
 [[files]]
