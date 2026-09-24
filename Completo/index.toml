@@ -203,12 +203,12 @@ hash = "0ef33ddc59366b90747467fc983f132d12972425f599be6841acdca511040436"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "2a1d04d6f5be54355a3c9973506bea86c845362c82d522e4692cb03510a095d1"
+hash = "8ea991903f2123c26af3e84c0448af84bd3dc1649931722f117ccb39950914ee"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+hash = "a59a33a25933106c7faee20528d14bd305e8efcdf069b2b91b8bee7f3b775a18"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ hash = "13c79387c4ae44859adb12949b3fd999f232ec548f04f54421e4438c883b854c"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
+hash = "5402f5b0393f6468311fbe12cbb2b007ee705e92a63ac1a150436857205667bf"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+hash = "73718738abc1814567021fe1eb9b3fb0bcb0e8670dbb9115272381170cb24bf0"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ hash = "1f2f7ade5e7d2d159698bd3157f6729012747e24db498e0dde113cbafe23cf59"
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "0a60fdc07b947574b9e19cb255e37d673736f5f05c199b82e078f7ae5ace35de"
+hash = "aa867e9ecc31e642f518679ef1e43276e3108fdc99a1ec01e2a03e2071926fed"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+hash = "35842c70979dc4843ab4ac914fc801f75eb8069a5ededa47490a8fb8c637a0b2"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ hash = "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+hash = "ec06d028a376dff67287fb837023d97a9c56911bacbfb7b8257dfacc3fac0279"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ hash = "0344e19cd35c0bb6aa608343cc352c9733e400b946b52fd49beec2d7fc0406b6"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cbeb48d7af1bcb06af49d2b1d443929dc144cd36922006a6a66f3e1d0777cc5c"
+hash = "ed3be2fc4fdf1fb5108b44f5942388d3ef9f8d19f3ffa9185ddea3e8f1d2d865"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "7748e3059d1bc39edb699b5563a6ac956cab726d6783b8ff947cb6339d4fced7"
+hash = "3b055edc8fa56886afb6f33718f8a727ac1bd3bf726170c034a449cbe1862ce7"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ hash = "581e057ec537dafe1495a76702e88d525d45e39ba5e9d75ea4adc0cde2a585ed"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+hash = "2b8ac8de79c5561e98265a274dd19081f0de540b1cb5cd3c2151f31a9402ee13"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
+hash = "f5d79572111f977729f99c58143e2296383cb16634f5b9805382b832e8e86300"
 metafile = true
 
 [[files]]
@@ -697,10 +697,10 @@ hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a00158a640285545d232f5f9e82e5102ea4a9246f7897b4ff9f3f7544d5f288a"
+hash = "e1dcf3f9feab68622a91afc0469fede07d814ba6f1b48313140110e88f71753f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fb245abdce152a31eae431d6d7340c69ad899ca35b6f71e12d840cc15e1e861a"
+hash = "50b71e9a606967fe71966c5ab2916c6295b0ed1f8f20cef53e2aa5bcb45c1092"
 metafile = true
