@@ -253,10 +253,6 @@ file = "mods/aquamirae-fabric-1.21.1-7.2.10.jar"
 hash = "ba31313b1658ccabfa7a8a23cca06c8849f205d98fedd6364fa2b6f63996a308"
 
 [[files]]
-file = "mods/aquamirae-fabric-1.21.1-7.2.3.jar"
-hash = "a6c0463b4d16c0dc12417bb9393c86cc83fb787e419a7eb7da2216d5e36a28fa"
-
-[[files]]
 file = "mods/archers-fabric-3.1.1%2B1.21.1.jar"
 hash = "13c79387c4ae44859adb12949b3fd999f232ec548f04f54421e4438c883b854c"
 
