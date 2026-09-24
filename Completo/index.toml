@@ -221,7 +221,7 @@ hash = "13c79387c4ae44859adb12949b3fd999f232ec548f04f54421e4438c883b854c"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5402f5b0393f6468311fbe12cbb2b007ee705e92a63ac1a150436857205667bf"
+hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ hash = "0344e19cd35c0bb6aa608343cc352c9733e400b946b52fd49beec2d7fc0406b6"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ed3be2fc4fdf1fb5108b44f5942388d3ef9f8d19f3ffa9185ddea3e8f1d2d865"
+hash = "cbeb48d7af1bcb06af49d2b1d443929dc144cd36922006a6a66f3e1d0777cc5c"
 metafile = true
 
 [[files]]
