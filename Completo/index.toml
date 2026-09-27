@@ -14,3 +14,8 @@ metafile = true
 file = "mods/modernfix.pw.toml"
 hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "1375600837a536424b4e99878da81bc126ad8a1b962b6dea8e38c245b124e143"
+metafile = true
