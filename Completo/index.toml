@@ -769,10 +769,6 @@ file = "mods/sophisticatedstorage-1.21.1-1.6.0.2136.jar"
 hash = "334462440ef60023f908bde489804ef78728e6a0f1379a318b93104779271202"
 
 [[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177"
-
-[[files]]
 file = "mods/spark-1.10.124-neoforge.jar"
 hash = "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
 
