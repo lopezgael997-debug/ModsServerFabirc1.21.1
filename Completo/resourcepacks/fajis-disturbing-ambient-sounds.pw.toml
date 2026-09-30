@@ -1,0 +1,13 @@
+name = "Faji's Disturbing Ambient Sounds"
+filename = "FDAS_pack_1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GB2xLefn/versions/Sl5GMkIc/FDAS_pack_1.0.0.zip"
+hash-format = "sha512"
+hash = "da473f745d00523683cf9d8f455c6ad2ce41bf990f0aabc381e99c6789c26a7bf97a85db17847aba88b864dc55013335c44269f544856df3a19821af8f859c5e"
+
+[update]
+[update.modrinth]
+mod-id = "GB2xLefn"
+version = "Sl5GMkIc"

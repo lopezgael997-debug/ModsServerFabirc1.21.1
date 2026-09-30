@@ -1,0 +1,13 @@
+name = "PDB3D's Blocky Armor Stands - Arms Version"
+filename = "PDB3D's Blocky Armor Stands AV.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7QpjqDY/versions/WPMRddi2/PDB3D%27s%20Blocky%20Armor%20Stands%20AV.zip"
+hash-format = "sha512"
+hash = "aee4b97b7bec23bfb7ff36f7ec43218f072946c27c68170edb124567905b965c306f8c08927241431d7747bb388ed85ccdf4620b1941dc62c82567cfcf8110a1"
+
+[update]
+[update.modrinth]
+mod-id = "v7QpjqDY"
+version = "WPMRddi2"
