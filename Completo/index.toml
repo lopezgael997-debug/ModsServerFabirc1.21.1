@@ -50,10 +50,6 @@ file = "mods/ConfluenceOtherworld-neoforge-1.2.6+1.21.1-260921.jar"
 hash = "f4536644bf5eb8591c39c3e66a3702f138ae2762239c19f3729785ba0bf7d16c"
 
 [[files]]
-file = "mods/CreativeCore_NEOFORGE_v2.13.49_mc1.21.1.jar"
-hash = "39506208ad0c7efb2c9ac8128766425faebf50c408ec869d5f5043c0742c231b"
-
-[[files]]
 file = "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
 hash = "ed83bea2826667fca80a6a8067f89fe7b97eb8b3213bbcb7f0f4e6a6898c0bc9"
 
@@ -403,7 +399,7 @@ hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ee9b77a6a70722fcb5b35846fd9acadf5e649c5341102c3244eb0a8847d1f0ca"
+hash = "9328bd6c4412bfdae65fdb51b2b332f97a45aa9dfcb6333699ab6dd7eff08d74"
 metafile = true
 
 [[files]]
