@@ -779,10 +779,6 @@ file = "mods/spark-1.10.124-neoforge.jar"
 hash = "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
 
 [[files]]
-file = "mods/stamina-2.0.0.1.jar"
-hash = "e7adb65be2d8ff56351e498bd41f57a852c561b96e860aeb450249d769ded2f1"
-
-[[files]]
 file = "mods/supplementaries-1.21.1-3.9.9-neoforge.jar"
 hash = "d6876ad959d0da4bab0ba182839a0af0e38ef3571345e5e7aea0be572f958e05"
 
