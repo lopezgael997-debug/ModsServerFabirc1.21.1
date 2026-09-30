@@ -38,10 +38,6 @@ file = "mods/CerbonsAPI-NeoForge-1.21-1.3.0.jar"
 hash = "5c750762b31ab79127df6f455351fe79793d8c2b41e1a0f94b335a5a1123534d"
 
 [[files]]
-file = "mods/Chimes-v2.1.1-1.21.1-NeoForge.jar"
-hash = "83b83b60bb40f34b2422d785ca40e287eacb31a1fc3a4f9564ee9e7c3dcc283b"
-
-[[files]]
 file = "mods/Chunky-NeoForge-1.4.23.jar"
 hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
 
@@ -436,20 +432,12 @@ hash = "6d37de7b436e094a7834d51b5d9d803653ab445e1041853f32a61599b054c7bf"
 metafile = true
 
 [[files]]
-file = "mods/do_a_barrel_roll-neoforge-3.7.3+1.21.jar"
-hash = "e56395ebb26318c11f3a9474bba14518f17f4f2028683eb0aa9cdc7dacf124e2"
-
-[[files]]
 file = "mods/dragonsofberk-1.21.1-1.1.3.jar"
 hash = "4f24921e24ba5a1a5d3cd278707b8dff7fc7faeaf178f79622adc57aeb6351cc"
 
 [[files]]
 file = "mods/dungeons-and-taverns-v4.4.4 [NeoForge].jar"
 hash = "1db28e89e0cb76aebe9e40955d1866e8ac1779575d15c2a1e250ac804a762d05"
-
-[[files]]
-file = "mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar"
-hash = "055b07436bc0c4f175345657e09e5375a529520aa1f9d06af557b413d7815fc6"
 
 [[files]]
 file = "mods/e4mc.pw.toml"
@@ -592,10 +580,6 @@ file = "mods/integrated_api-neoforge-1.21.1-1.9.0.jar"
 hash = "80815d73bbb32605fd75ed521f16714ed3682bd4d1367cfabf26b515ba6b7585"
 
 [[files]]
-file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
-hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -707,10 +691,6 @@ hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 file = "mods/particle-effects.pw.toml"
 hash = "dac59cb4f38c8fe387400ed821d64e1ab384d45aea587186063e598a1a74669d"
 metafile = true
-
-[[files]]
-file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
-hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
